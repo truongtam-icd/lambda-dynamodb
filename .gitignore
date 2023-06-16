@@ -1,0 +1,9 @@
+node_modules
+.webpack
+.env
+package-lock.json
+docker/db
+webapp/node_modules
+webapp/build
+offline/batchWriteItems/*.txt
+offline/dump/*.json
